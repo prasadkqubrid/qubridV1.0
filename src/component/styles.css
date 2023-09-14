@@ -1,0 +1,115 @@
+/* body{
+
+} */
+
+.login-container{
+  display: flex;
+  justify-items: center;
+  align-items: center;
+  height: 100vh;
+}
+
+
+.social-sign-in p{
+  border: 1px solid white;
+  text-align: center;
+  color: white;
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.login-container form {
+  background: #0e101c;
+  padding: 20px;
+  margin: auto;
+  border-radius: 20px;
+  width: 400px;
+}
+
+.login-container .sign-in-check{
+  display: flex;
+}
+
+.login-container .sign-in-check input{
+  width: 20px; 
+  margin-top: 10px;
+}
+
+.user-form-field p {
+  color: #bf1650;
+}
+
+.user-form-field p::before {
+  display: inline;
+  content: "⚠ ";
+}
+
+.user-form-field input {
+  display: block;
+  box-sizing: border-box;
+  width: 100%;
+  border-radius: 4px;
+  border: 1px solid white;
+  padding: 10px 15px;
+  margin-bottom: 10px;
+  font-size: 14px;
+}
+
+.user-form-field label {
+  line-height: 2;
+  text-align: left;
+  display: block;
+  margin-bottom: 13px;
+  margin-top: 8px;
+  margin-left: 10px;
+  color: white;
+  font-size: 14px;
+  font-weight: 200;
+}
+
+.login-container form input[type="submit"] {
+  background: #0c57e4;
+  width: 100%;
+  color: white;
+  text-transform: uppercase;
+  border: none;
+  border-radius: 5px;
+  margin-top: 20px;
+  padding: 20px;
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 2px;
+  cursor: pointer;
+}
+
+.login-container form input[type="submit"]:hover {
+  background: #5644f6;
+}
+
+.forget-password-btn{
+  text-align: center;
+  color: white;
+  font-weight: bold;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.sign-in-create-account{
+  display: flex;
+  justify-content: center;
+  color: white;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.link-route{
+  text-decoration: none;
+  margin-left: 5px;
+  color: white;
+  font-weight: bold;
+}
+
+.forget-password-btn .link-route{
+  margin: 0;
+  color: #bf1650;
+}
