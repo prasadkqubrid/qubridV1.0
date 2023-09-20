@@ -18,7 +18,7 @@ function Login() {
     const onSubmit = async (data, e) => {
         e.preventDefault();
         try {
-            const url = "http://35.169.143.194:4000/login";
+            const url = "https://www.dev.qubrid.com/login";
             const { data: res } = await axios.post(url, data);
             if (res.success) {
                 localStorage.setItem("token", res.token);
