@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0724c3f2.css",
+    "main.js": "/static/js/main.7a177f2d.js",
+    "static/js/787.f5a7f191.chunk.js": "/static/js/787.f5a7f191.chunk.js",
+    "static/media/tenserflow.svg": "/static/media/tenserflow.7a643dd51cdb77c4ee4b2611af3fc2a7.svg",
+    "static/media/theano.svg": "/static/media/theano.04a42d21176b6951d531ca9c38d2ad3b.svg",
+    "static/media/vecteezy_coming-soon-background-illustration-template-design_.jpg": "/static/media/vecteezy_coming-soon-background-illustration-template-design_.1a33cc3c9c8f35201310.jpg",
+    "static/media/Jupyter_logo.svg.png": "/static/media/Jupyter_logo.svg.e62eb6a74a266ae31a7a.png",
+    "static/media/nvidia-notebook.svg": "/static/media/nvidia-notebook.141e553e1dfbe56f150abc24a658c7ec.svg",
+    "static/media/keras.svg": "/static/media/keras.bbb9f7cdb9ba6d3e5932f354d9e905e1.svg",
+    "static/media/notification.png": "/static/media/notification.fc70c6eaa42fba0fca99.png",
+    "static/media/User.png": "/static/media/User.0d14c6999b4a5c8e86a7.png",
+    "static/media/pytorch.svg": "/static/media/pytorch.b1ea2be3f612cc520bb3ed024fed4374.svg",
+    "static/media/loader.svg": "/static/media/loader.a76c990f6bedc67815e7bcbbaeda48ee.svg",
+    "static/media/nvidia_cuda.svg": "/static/media/nvidia_cuda.96063dfbd32e4a9a5977b0f6f0ea7508.svg",
+    "static/media/cudnn.svg": "/static/media/cudnn.bde2a2d4a378a471097d6d5c2caa672c.svg",
+    "static/media/caffe2_text.svg": "/static/media/caffe2_text.3dbfd6b7c84e9b6ac670bc3cdd383a98.svg",
+    "static/media/caffe2.svg": "/static/media/caffe2.0853c820a1c6c3fa7b0511d7cc19cd77.svg",
+    "static/media/qubrid_logo.svg": "/static/media/qubrid_logo.56721706e09f7670175ce0be427876da.svg",
+    "index.html": "/index.html",
+    "main.0724c3f2.css.map": "/static/css/main.0724c3f2.css.map",
+    "main.7a177f2d.js.map": "/static/js/main.7a177f2d.js.map",
+    "787.f5a7f191.chunk.js.map": "/static/js/787.f5a7f191.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0724c3f2.css",
+    "static/js/main.7a177f2d.js"
+  ]
+}
